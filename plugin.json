@@ -7,6 +7,7 @@
   "version": "1.0.0",
   "minAppVersion": "2.10.0",
   "author": "老张",
+  "url": "https://github.com/zhangyong2611/siyuan-plugin-zhanglao-crm",
   "description": "老张专属的思源笔记客户关系管理插件，适配PC/Docker/手机全端使用",
   "homepage": "https://github.com/zhangyong2611/siyuan-plugin-zhanglao-crm",
   "main": "index.js",
