@@ -1,0 +1,12 @@
+# 忽略依赖目录
+node_modules/
+
+# 忽略构建产物
+package.zip
+dist/
+build/
+
+# 忽略日志、临时文件
+*.log
+.DS_Store
+Thumbs.db
