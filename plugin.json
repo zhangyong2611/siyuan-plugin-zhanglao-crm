@@ -1,6 +1,9 @@
 {
-  "id": "siyuan-plugin-zhanglao-crm",
-  "name": "老张客户关系管理",
+  "name": "siyuan-plugin-zhanglao-crm",
+  "displayName": {
+    "zh_CN": "老张客户关系管理",
+    "en_US": "LaoZhang CRM"
+  },
   "version": "1.0.0",
   "minAppVersion": "2.10.0",
   "author": "老张",
@@ -9,9 +12,5 @@
   "main": "index.js",
   "funding": "",
   "keywords": ["CRM", "客户管理", "跟进记录", "老张CRM"],
-  "icon": "icon.png",
-  "displayName": {
-    "zh_CN": "老张客户关系管理",
-    "en_US": "LaoZhang CRM"
-  }
+  "icon": "icon.png"
 }
