@@ -4,14 +4,23 @@
     "zh_CN": "老张客户关系管理",
     "en_US": "LaoZhang CRM"
   },
-  "version": "1.0.0",
+  "version": "1.0.1", // 后续需要升级版本号
   "minAppVersion": "2.10.0",
   "author": "老张",
   "url": "https://github.com/zhangyong2611/siyuan-plugin-zhanglao-crm",
-  "description": "老张专属的思源笔记客户关系管理插件，适配PC/Docker/手机全端使用",
+  "description": {
+    "zh_CN": "老张专属的思源笔记客户关系管理插件，适配PC/Docker/手机全端使用",
+    "en_US": "LaoZhang CRM, a SiYuan plugin for customer relationship management"
+  },
+  "readme": {
+    "zh_CN": "README_zh_CN.md",
+    "en_US": "README.md"
+  },
   "homepage": "https://github.com/zhangyong2611/siyuan-plugin-zhanglao-crm",
   "main": "index.js",
-  "funding": "",
+  "funding": {
+    "custom": ["https://github.com/zhangyong2611/siyuan-plugin-zhanglao-crm"]
+  },
   "keywords": ["CRM", "客户管理", "跟进记录", "老张CRM"],
   "icon": "icon.png"
 }
